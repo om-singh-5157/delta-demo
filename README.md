@@ -2,6 +2,6 @@
 
 This is a git &amp; github file.
 
-# King
+# Student
 
 om singh
